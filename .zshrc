@@ -10,3 +10,4 @@ export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 export PATH="/Users/bsiegfreid/.local/bin:$PATH"
 
+export PATH="/opt/homebrew/opt/postgresql@17/bin:$PATH"
